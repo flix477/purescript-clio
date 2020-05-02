@@ -38,5 +38,5 @@ Arguments:
 ```
 
 ## Note
-This was done as a learning project for me to get better understanding of PureScript/FP in general.
+This was done as a learning project for me to get a better understanding of PureScript/FP in general.
 If you want a great alternative you should look up https://github.com/f-o-a-m/purescript-optparse
