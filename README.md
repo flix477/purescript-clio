@@ -36,3 +36,7 @@ Options:
 Arguments:
   [...dirs]  Display the names of files contained per directory.
 ```
+
+## Note
+This was done as a learning project for me to get better understanding of PureScript/FP in general.
+If you want a great alternative you should look up https://github.com/f-o-a-m/purescript-optparse
