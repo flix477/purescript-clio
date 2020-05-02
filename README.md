@@ -8,7 +8,6 @@ Command-line arguments parser for PureScript
 - Arguments builder that enforces correctness at compile-time
 
 ## Example
-
 To parse a simplified version of `ls`:
 ```purescript
 config' "ls"
@@ -20,7 +19,7 @@ config' "ls"
       $ O.description "List in long format."
     ]
   , arguments
-    $ variadic' "dirs"
+    $ variadic "dirs"
       $ A.description "Display the names of files contained per directory."
   ]
 ```
