@@ -1,6 +1,8 @@
 # clio
 Command-line arguments parser for PureScript
 
+![CI](https://github.com/flix477/purescript-clio/workflows/PureScript%20CI/badge.svg)
+
 ## Features
 - Fully-featured configuration with multiple types of options and arguments
 - Automatic help dialog generation and error messages
