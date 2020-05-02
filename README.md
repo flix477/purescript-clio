@@ -21,8 +21,8 @@ config' "ls"
       $ O.description "List in long format."
     ]
   , arguments
-    $ variadic "dirs"
-      $ A.description "Display the names of files contained per directory."
+    $ (variadic "dirs"
+      $ A.description "Display the names of files contained per directory.")
   ]
 ```
 
